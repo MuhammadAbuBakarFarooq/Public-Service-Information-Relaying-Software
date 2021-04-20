@@ -1,4 +1,4 @@
-# School-Inspection-System
+# Public-Service-Information-Relaying-Software
 Important Note
 (It's just and ideal project and these are just my thoughts not and official thing) 
 
